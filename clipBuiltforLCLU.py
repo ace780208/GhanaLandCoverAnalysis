@@ -2,7 +2,7 @@
 # Name:        extract Built-up area in the road buffer
 # Purpose:      This is a python script for arcGIS toolbox to extract built-up
 #               area for each district in Southeastern Ghana within 0.25, 0.5,
-#               1, 2, and 5 km buffer of major road (i.e. highway) for 2000 and
+#               1, 2, and 5 km buffer of major road (i.e. highway) for 2000
 #               and 2010.
 #
 # Author:      Ace
